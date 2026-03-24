@@ -21,6 +21,8 @@ This is useful for:
 - Testing mouse input behavior
 - And, most imporantly, beat [Not a Robot at neal.fun](https://neal.fun/not-a-robot/)
 
+![proof](./proof.png)
+
 ## Requirements
 
 - Windows OS  
