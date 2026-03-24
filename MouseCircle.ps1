@@ -25,7 +25,7 @@ $LEFTUP   = 0x0004
 $radius = 150
 
 Write-Host "MouseCircle"
-Write-Host "Move cursor to center, press F8 to draw a left-drag circle."
+Write-Host "Move cursor to center, press F8 to draw a circle."
 Write-Host "Press Esc to exit."
 
 while ($true) {
